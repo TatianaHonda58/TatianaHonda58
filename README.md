@@ -78,7 +78,8 @@ Sou uma profissional proativa, com forte capacidade analítica e grande interess
 ### Office
 ---
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]() [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)]()
+[![ClickUp](https://img.shields.io/badge/ClickUp-7F6E7E?style=for-the-badge&logo=clickup&logoColor=white)]() [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]() [![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)]() 
+
 
 <br> 
 
@@ -94,6 +95,6 @@ Sou uma profissional proativa, com forte capacidade analítica e grande interess
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianaHonda58&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaHonda58&layout=compact&hide_border=true&title_color=120a8f &text_color=ff91a4&bg_color=2c1984)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaHonda58&layout=compact&hide_border=true&title_color=120a8f &text_color=ff91a4&bg_color=2c1984)]
 
 <br>

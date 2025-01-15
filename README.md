@@ -21,11 +21,11 @@ Sou uma profissional proativa, com forte capacidade analítica e grande interess
 ---
 
 - 🏆   Curso Programa de Testes e Qualidade de Software
-- 🌱   Curso de Introdução aos Testes de API Rest 
-- 🎮   Curso de Lógica de Programação
+- 📌   Curso de Introdução aos Testes de API Rest 
+- 💻   Curso de Lógica de Programação
 - ⚡️   Curso Cypress Direto ao Ponto
-- 🧠   Curso Python Academy
-
+- 🌱   Curso Python Academy
+- 🐞   Curso Qualiters Club
 
 <br>
 

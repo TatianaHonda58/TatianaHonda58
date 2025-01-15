@@ -1,15 +1,21 @@
 ## Olá eu sou a Tatiana ✨
-### Eu gosto de aprender e compartilhar meus conhecimentos em Testes e Qualidade de Software
+### Sou apaixonada por aprender e compartilhar meus conhecimentos em Testes e Qualidade de Software.
 
 <br>
 
-Formada Tecnólogo em Processamento de Dados e Nutrição, possui 1 ano de experiência na área de TI como Quality Assurance (QA) Júnior. No segundo semestre de 2022, começou o curso de Programa de Testes e Qualidade de Software do Júlio de Lima e concluiu em 3 meses. O curso ensinou a utilizar várias técnicas, tipos de testes, arquiteturas de software, estratégias, ferramentas, programação básica em Java e SQL e boas práticas de automação de testes em Web, API, Mobile.
+Com formação em Processamento de Dados, me encontrei na área de TI como Quality Assurance (QA) Júnior. Em 2022, concluí o curso de Programa de Testes e Qualidade de Software do Júlio de Lima, aprofundando meus conhecimentos em diversas técnicas de testes, arquiteturas de software, ferramentas e linguagens como Java e SQL.
 
-Depois conseguiu passar no processo seletivo da empresa Lacrei Saúde (trabalho voluntário) e trabalhou como QA, onde construiu estratégia e mecanismos para adotar a metodologia de forma sistemática, evitando, identificando e tratando os problemas. Após quase um mês, foi indicada como QA Lead, na qual realizou o suporte das equipes de desenvolvimento, fez revisão de tarefas concluídas, participou ativamente em reuniões de equipe para discutir e planejar as atividades, manteve uma comunicação fluida e alinhada, executou a validação e entrega das mesmas, o que assegurou o cumprimento eficaz dos requisitos da sprint. Na Lacrei Saúde, ficou trabalhando por 4 meses, foi o local que adquiriu mais conhecimentos e experiências como profissional da área.
+Na Lacrei Saúde, tive a oportunidade de implementar a metodologia de testes de forma sistemática, atuando como QA e posteriormente como QA Lead. Nessa experiência, desenvolvi habilidades em planejamento, execução e acompanhamento de testes, além de fortalecer minha comunicação e trabalho em equipe.
 
-Em seguida, eu conseguiu ser contratado pela empresa Tecsomobi e trabalhou como Analista de Testes Júnior, onde conduziu testes abrangentes em firmware, web e aplicativos móveis, visando garantir a qualidade e a funcionalidade otimizada para a mobilidade humana, e também realizou a identificação e correção de inconsistências em dispositivos e aplicativos, o que proporcionou uma experiência de usuário espontânea e satisfatória em ambientes de mobilidade. 
+Na Tecsomobi, como Analista de Testes Júnior, conduzi testes em firmware, web e aplicativos móveis, garantindo a qualidade e a experiência do usuário em ambientes de mobilidade.
 
-Atualmente, trabalha como QA Júnior na empresa SouJunior Labs (trabalho voluntário), onde auxiliou na construção do fluxograma, executou testes exploratórios e participou ativamente das reuniões e mentorias.
+Na SouJunior Labs, como QA Júnior, contribuí para a qualidade do software, realizando testes abrangentes e identificando problemas.
+
+Minha experiência profissional também inclui a atuação como auxiliar de informática na ADVaud, onde desenvolvi habilidades em rotinas administrativas e utilização de ferramentas do pacote Office.
+
+Sou uma profissional proativa, com forte capacidade analítica e grande interesse em garantir a qualidade dos produtos de software.
+
+<br>
 
 ### Certificados
 ---

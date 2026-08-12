@@ -2,11 +2,9 @@
 
 <div>
   <a href="https://github.com/TatianaHonda58">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=TatianaHonda58&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaHonda58&layout=compact&langs_count=6&theme=synthwave"/>
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TatianaHonda58&theme=tokyonight" />
   </a>
 </div>
-<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,5 +35,8 @@
   <a href = "mailto:tatianamitiko58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tatiana-honda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+
 
 

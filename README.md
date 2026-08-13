@@ -1,5 +1,13 @@
 ## Bem-vindo(a) ao perfil da Tatiana Honda 😁
 
+<div align="center">
+  <a href="https://github.com/TatianaHonda58">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TatianaHonda58&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=TatianaHonda58&layout=compact&langs_count=6&theme=tokyonight" />
+  </a>
+</div>
+
+     
 <div>
   <a href="https://github.com/TatianaHonda58">
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TatianaHonda58&theme=tokyonight" />
